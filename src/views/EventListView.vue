@@ -13,8 +13,8 @@
       .catch((error) => {
         console.log(error);
       })
-  });
-</script>
+  }); 
+</script> 
 
 <template>
   <h1 class="title">Events For Good</h1>
